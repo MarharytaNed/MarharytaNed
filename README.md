@@ -5,6 +5,4 @@ Hi there 👋
 - 😄 Pronouns: she/her/hers
 
 
-<a href="https://www.learnenough.com/certificates/MarharytaNed"><img src="https://www.learnenough.com/certificates/MarharytaNed/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
-
 <a href="https://www.learnenough.com/certificates/MarharytaNed"><img src="https://www.learnenough.com/certificates/MarharytaNed/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/MarharytaNed"><img src="https://www.learnenough.com/certificates/MarharytaNed/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a>
